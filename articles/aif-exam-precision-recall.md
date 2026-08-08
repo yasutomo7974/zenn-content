@@ -2,7 +2,7 @@
 title: "AIF試験直前、私を何度も裏切ったPrecisionとRecall"
 emoji: "🎯"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["AWS", "AIF", "資格", "初学者"]
+topics: ["aws", "aif", "資格", "初学者"]
 published: true
 ---
 
