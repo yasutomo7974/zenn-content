@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified AI Practitioner(AIF)合格しました。が何気に苦戦したので最終的に効いた4つの判断軸をまとめました"
+title: "AIF合格。何気に苦戦したので最終的に効いた4つの判断軸"
 emoji: "🎓"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["aws", "aif", "資格", "初学者"]
